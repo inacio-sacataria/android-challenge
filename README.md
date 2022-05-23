@@ -17,3 +17,7 @@ responder ou dar uma resposta inválida), para não ocupar mais tempo.
 - Correta utilização das tecnologias referidas no ponto anterior;
 - Performance da APP desenvolvida;
 - Capacidade de cumprir deadlines;
+
+## author
+Inacio Sacataria
+github.com/inaciosacataria
