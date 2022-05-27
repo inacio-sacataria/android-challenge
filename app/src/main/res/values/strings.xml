@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Clima</string>
+    <string name="text_wind">Wind:</string>
+    <string name="text_humidity">Humidity:</string>
+    <string name="text_pressure">Pressure:</string>
+    <string name="text_sunset">Sunset:</string>
+    <string name="text_sunrise">Sunrise:</string>
+    <string name="minimum_temperature">Minimum temperature</string>
+    <string name="maximum_temperature">Maximum Temperature</string>
+    <string name="temperature_feels_like">Temperature feels like</string>
+    <string name="myfavoriteCity">My favorite city</string>
 </resources>
