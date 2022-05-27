@@ -1,6 +1,8 @@
 # android-challenge
 A tarefa consiste em desenvolver uma app para mostrar o tempo na tua localização actual e de 10 cidades europeias: Lisboa, Madrid, Paris, Berlim, Copenhaga, Roma, Londres, Dublin, Praga e Viena. UI e funcionalidades (extra) ficam ao teu critério.
 
+ <img src="https://github.com/inacio-sacataria/android-challenge/blob/dev/screenshots/1a.png" alt="drawing" width="280"/><img src="https://github.com/inacio-sacataria/android-challenge/blob/dev/screenshots/2a.png" alt="drawing" width="280"/>
+
 ## Algumas sugestões (ordem relevante):
 1. Ter 2 ecrãs: um com a listagem das cidades e outro ecrã com vários dados meteorológicos (temp.
 máxima, minima, atual, velocidade do vento, humidade, etc) ao teu critério.
